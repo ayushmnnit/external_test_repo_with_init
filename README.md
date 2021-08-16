@@ -1,3 +1,3 @@
-# Single_Fork_External__external
+# TestNewLinking__external
 
-Single_Fork_External__external repository
+TestNewLinking__external repository
