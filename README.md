@@ -1,3 +1,3 @@
-# SingleForkUnlinkingTest__external
+# TestNewLinking__external
 
-SingleForkUnlinkingTest__external repository
+TestNewLinking__external repository
