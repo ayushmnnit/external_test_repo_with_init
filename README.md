@@ -1,3 +1,3 @@
-# RenamingTest__external
+# TestNewLinking__external
 
-RenamingTest__external repository
+TestNewLinking__external repository
