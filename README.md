@@ -1,0 +1,3 @@
+# RenamingTest__external
+
+RenamingTest__external repository
