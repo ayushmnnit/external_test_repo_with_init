@@ -1,3 +1,3 @@
-# SingleForkUnlinkingTest__internal
+# RenamingTest__internal
 
-SingleForkUnlinkingTest__internal repository
+RenamingTest__internal repository
