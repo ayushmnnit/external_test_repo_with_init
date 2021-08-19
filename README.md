@@ -1,3 +1,3 @@
-# 19thAugSingleForkExternal513__external
+# TestNewLinking__external
 
-19thAugSingleForkExternal513__external repository
+TestNewLinking__external repository
