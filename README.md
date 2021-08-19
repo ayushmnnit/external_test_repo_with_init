@@ -1,3 +1,3 @@
-# SyncLagTest__external
+# TestNewLinking__external
 
-SyncLagTest__external repository
+TestNewLinking__external repository
