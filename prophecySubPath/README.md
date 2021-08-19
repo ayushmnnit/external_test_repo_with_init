@@ -1,3 +1,3 @@
-# RenamingTest__internal
+# SyncLagTest__internal
 
-RenamingTest__internal repository
+SyncLagTest__internal repository
