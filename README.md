@@ -1,3 +1,3 @@
-# MultiForkExternal1000__external
+# TestNewLinking__external
 
-MultiForkExternal1000__external repository
+TestNewLinking__external repository
