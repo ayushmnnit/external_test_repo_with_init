@@ -1,3 +1,0 @@
-# 25thAugTesting__internal
-
-25thAugTesting__internal repository
