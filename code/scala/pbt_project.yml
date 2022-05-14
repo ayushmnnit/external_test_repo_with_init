@@ -1,0 +1,11 @@
+name: External
+description: ''
+version: c
+author: null
+pipelines: {}
+datasets: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+dependencies: '[]'
+template: '[]'
