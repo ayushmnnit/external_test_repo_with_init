@@ -1,9 +1,20 @@
 name: Multi_Fork
 description: ''
 version: '0.1'
-author: null
+author: ''
 language: python
-pipelines: {}
+pipelines:
+  pipelines/P1:
+    name: P1
+    description: ''
+    author: abhisheks+uitesting@simpledatalabs.com
+    mode: batch
+    language: python
+    createdAt: '2022-05-27 06:00:05'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
 datasets: {}
 jobs: {}
 libraries: []
