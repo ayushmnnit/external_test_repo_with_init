@@ -1,0 +1,89 @@
+{
+  "metainfo" : {
+    "id" : "1",
+    "language" : "python",
+    "fabricId" : "862",
+    "frontEndLanguage" : "sql",
+    "mode" : "batch",
+    "interimMode" : "Full",
+    "udfs" : {
+      "language" : "python",
+      "udfs" : [ ]
+    },
+    "udafs" : {
+      "language" : "python",
+      "code" : ""
+    },
+    "configuration" : {
+      "common" : {
+        "type" : "record",
+        "fields" : [ ]
+      },
+      "fabrics" : {
+        "dev_ebs_ssd" : {
+          "type" : "record",
+          "fields" : [ ]
+        },
+        "livy" : {
+          "type" : "record",
+          "fields" : [ ]
+        },
+        "dev" : {
+          "type" : "record",
+          "fields" : [ ]
+        },
+        "dev_ebs_hdd" : {
+          "type" : "record",
+          "fields" : [ ]
+        },
+        "dev_new" : {
+          "type" : "record",
+          "fields" : [ ]
+        }
+      }
+    },
+    "sparkConf" : [ ],
+    "hadoopConf" : [ ],
+    "codeMode" : "sparse",
+    "buildSystem" : "maven",
+    "externalDependencies" : [ ]
+  },
+  "connections" : [ ],
+  "processes" : {
+    "OPwjOWGhbPLANHh54lAHW$$rlTkNBc2JPp1kF5r8W5Va" : {
+      "id" : "OPwjOWGhbPLANHh54lAHW$$rlTkNBc2JPp1kF5r8W5Va",
+      "component" : "Script",
+      "metadata" : {
+        "label" : "Script_0",
+        "slug" : "Script_0",
+        "x" : 140,
+        "y" : 160,
+        "language" : "python",
+        "phase" : 0,
+        "cache" : false,
+        "detailedStats" : false
+      },
+      "ports" : {
+        "inputs" : [ {
+          "id" : "MOnrEgHOU0TuN22syz-KL$$sxLrYfHD3VLNqQGPhe-Sb",
+          "slug" : "in0"
+        } ],
+        "outputs" : [ {
+          "id" : "IsTe4fM2bZzu-eRlktW_1$$RohgV-_WiiM6qKJ31aK15",
+          "slug" : "out0"
+        } ],
+        "selectedInputFields" : [ ]
+      },
+      "properties" : {
+        "script" : "",
+        "scriptMethodHeader" : "def Script(spark: SparkSession, in: DataFrame) -> Script:",
+        "scriptMethodFooter" : "    return out0"
+      }
+    }
+  },
+  "ports" : {
+    "inputs" : [ ],
+    "outputs" : [ ],
+    "selectedInputFields" : [ ]
+  }
+}

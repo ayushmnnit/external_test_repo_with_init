@@ -4,6 +4,17 @@ version: '0.1'
 author: ''
 language: python
 pipelines:
+  pipelines/P1:
+    name: P1
+    description: ''
+    author: abhisheks+uitesting@simpledatalabs.com
+    mode: batch
+    language: python
+    createdAt: '2022-05-27 06:00:05'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
   pipelines/pipeline2:
     name: pipeline2
     description: ''
