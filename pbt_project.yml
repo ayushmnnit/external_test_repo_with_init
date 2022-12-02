@@ -1,8 +1,9 @@
 name: Multi_Fork
 description: ''
-version: '1.2'
+version: 1.2-SNAPSHOT
 author: ''
 language: python
+buildSystem: wheel
 pipelines:
   pipelines/P1:
     name: P1
@@ -27,8 +28,12 @@ pipelines:
       outputs: []
     dependencies: {}
 datasets: {}
+templates: {}
 jobs: {}
 libraries: []
 subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
 dependencies: '[]'
-template: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}
